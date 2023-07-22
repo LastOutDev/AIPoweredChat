@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/ezra/Documents/GithubLastOutDev/AIPoweredChatbot/ai_chat_backend/target/debug/build/typenum-e393f3a837a1c0fb/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/ezra/Documents/GithubLastOutDev/AIPoweredChatbot/ai_chat_backend/target/debug/build/typenum-e393f3a837a1c0fb/out/op.rs
